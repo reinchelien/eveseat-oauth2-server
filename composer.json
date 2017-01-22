@@ -1,5 +1,5 @@
 {
-    "name": "eve-scout/eveseat-oauth2-server",
+    "name": "reinchelien/eveseat-oauth2-server",
     "description": "EVE SeAT OAuth2 Server",
     "homepage": "https://github.com/eve-scout/eveseat-oauth2-server",
     "license": "GPL-2.0",
@@ -16,7 +16,7 @@
     },
     "require": {
         "php": ">=5.5.9",
-        "laravel/framework": "5.1.*",
+        "laravel/framework": "^5.1.0",
         "eveseat/web": "^1.0.18",
         "lucadegasperi/oauth2-server-laravel": "^5.1.4"
     }
